@@ -81,3 +81,6 @@ Good video about runloop https://www.youtube.com/watch?v=GfpZ1fBHvxg
 Responder Chain https://useyourloaf.com/blog/using-the-responder-chain/
 
 Good answer from Jommoos about self = [super init] https://stackoverflow.com/questions/2956943/why-should-i-call-self-super-init
+
+Class clasters https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/ClassClusters/ClassClusters.html 
+
