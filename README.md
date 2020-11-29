@@ -77,3 +77,5 @@ Capture list https://marcosantadev.com/capturing-values-swift-closures/
 KeyBoard Managing https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
 
 Good video about runloop https://www.youtube.com/watch?v=GfpZ1fBHvxg
+
+Responder Chain https://useyourloaf.com/blog/using-the-responder-chain/
