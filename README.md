@@ -84,3 +84,4 @@ Good answer from Jommoos about self = [super init] https://stackoverflow.com/que
 
 Class clasters https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/ClassClusters/ClassClusters.html 
 
+Init for UIViewController https://stackoverflow.com/questions/24095037/why-cant-i-call-the-default-super-init-on-uiviewcontroller-in-swift?noredirect=1&lq=1
