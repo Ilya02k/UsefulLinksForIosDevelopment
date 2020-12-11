@@ -86,3 +86,8 @@ Good answer from Jommoos about self = [super init] https://stackoverflow.com/que
 Class clasters https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/ClassClusters/ClassClusters.html 
 
 Init for UIViewController https://stackoverflow.com/questions/24095037/why-cant-i-call-the-default-super-init-on-uiviewcontroller-in-swift?noredirect=1&lq=1
+
+Dependency Injection: https://www.objc.io/issues/15-testing/dependency-injection/
+
+Functionality programming in Swift: https://abhimuralidharan.medium.com/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8
+
