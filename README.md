@@ -51,6 +51,7 @@ UIGestureRecognizer: https://medium.com/yandex-maps-mobile/uigesturerecognizer-t
 Concurency: https://medium.com/@chetan15aga/ios-concurrency-underlying-truth-1021a0bb2a98
 
 Interview questions: https://medium.com/@chetan15aga
+https://github.com/dashvlas/awesome-ios-interview/blob/master/Resources/Russian.md
 
 Escaping https://medium.com/swiftcommmunity/what-do-mean-escaping-and-nonescaping-closures-in-swift-d404d721f39d
 
