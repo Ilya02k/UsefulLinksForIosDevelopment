@@ -90,4 +90,5 @@ Init for UIViewController https://stackoverflow.com/questions/24095037/why-cant-
 Dependency Injection: https://www.objc.io/issues/15-testing/dependency-injection/
 
 Functionality programming in Swift: https://abhimuralidharan.medium.com/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8
-
+Multhithreading:
+NSOperation https://habr.com/ru/post/267843/
