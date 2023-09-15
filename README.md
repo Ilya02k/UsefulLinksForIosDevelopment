@@ -92,3 +92,7 @@ Dependency Injection: https://www.objc.io/issues/15-testing/dependency-injection
 Functionality programming in Swift: https://abhimuralidharan.medium.com/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8
 Multhithreading:
 NSOperation https://habr.com/ru/post/267843/
+
+Some any keyword https://swiftsenpai.com/swift/understanding-some-and-any/ 
+
+protocols https://medium.com/@abhimuralidharan/all-about-protocols-in-swift-11a72d6ea354
