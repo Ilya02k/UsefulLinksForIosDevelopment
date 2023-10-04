@@ -95,4 +95,6 @@ NSOperation https://habr.com/ru/post/267843/
 
 Some any keyword https://swiftsenpai.com/swift/understanding-some-and-any/ 
 
-protocols https://medium.com/@abhimuralidharan/all-about-protocols-in-swift-11a72d6ea354
+protocols https://medium.com/@abhimuralidharan/all-about-protocols-in-swift-11a72d6ea354 
+
+Acyns Await https://codeswift.ru/fast-start-with-swift-concurrency/
