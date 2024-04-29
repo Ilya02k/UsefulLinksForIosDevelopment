@@ -100,3 +100,5 @@ protocols https://medium.com/@abhimuralidharan/all-about-protocols-in-swift-11a7
 Acyns Await https://codeswift.ru/fast-start-with-swift-concurrency/
 
 Pushes delivery(by Yandex) https://habr.com/ru/companies/oleg-bunin/articles/462507/
+
+Navigations in Swift UI. Swift ui movements between screens. https://habr.com/ru/articles/652593/
